@@ -34,4 +34,3 @@ Contributors names and contact info
 
 * Shayne Skrtic (skrtics@xavier.edu)
 * Designed Primarrily for Use in the Escorcia Lab https://www.xavier.edu/biology-department/escorcia-laboratory/index
-* 
